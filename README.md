@@ -3,8 +3,8 @@
 | No. | Descripción                                                     | Estatus   |
 | --- | --------------------------------------------------------------- | --------- |
 | 1   | Configuración inicial del proyecto Node.js                      | Realizado |
-| 2   | Configuración del servidor Express                              | Pendiente |
-| 3   | Configuración de Tailwind CSS para estilos                      | Pendiente |
+| 2   | Configuración del servidor Express                              | Realizado |
+| 3   | Configuración de Tailwind CSS para estilos                      | Realizado |
 | 4   | Solicitud y configuración de API Keys                           | Pendiente |
 | 5   | Implementación de consumo de API NASA                           | Pendiente |
 | 6   | Implementación de consumo de API INEGI                          | Pendiente |
