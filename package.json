@@ -4,9 +4,10 @@
   "description": "Proyecto consumo de APIs publicas NASA INEGI FIFA",
   "main": "server.js",
 
-  "scripts": {
-    "dev": "nodemon server.js"
-  },
+ "scripts": {
+  "dev": "nodemon server.js"
+ },
+
 
   "dependencies": {
     "axios": "^1.13.6",
