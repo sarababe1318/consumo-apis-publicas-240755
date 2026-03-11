@@ -16,16 +16,30 @@
 # 🌐 Consumo de APIs para acceso a Bases de Datos Públicas
 
 ## Interfaz inicial
-<img width="1918" height="971" alt="interfaz inicio" src="https://github.com/user-attachments/assets/668dfe12-8d2f-420d-af0d-d214d9a54700" />
+<img width="1914" height="964" alt="image" src="https://github.com/user-attachments/assets/642a53e2-e774-4768-94b7-9477a8da1a14" />
+
 
 ## Interfaz Nasa
-<img width="1911" height="956" alt="nasa interfaz" src="https://github.com/user-attachments/assets/504ffb0b-6ad6-454e-83bc-d1744bfb48f5" />
+<img width="1899" height="956" alt="image" src="https://github.com/user-attachments/assets/db96c318-5d9c-4c67-bf10-911b7f8be2fa" />
+<img width="1919" height="954" alt="image" src="https://github.com/user-attachments/assets/b340da3b-5dcd-417a-9ea3-1d6b1d0e6056" />
+
+
 
 ## Interfaz Inegi 
-<img width="1917" height="962" alt="ingei interfaz" src="https://github.com/user-attachments/assets/2b020d6b-5725-42f6-88d0-826e81cb8674" />
+<img width="1916" height="951" alt="image" src="https://github.com/user-attachments/assets/5bd0a179-7b1f-4778-9f00-a9024e574d1e" />
+<img width="1918" height="971" alt="image" src="https://github.com/user-attachments/assets/2a92b33b-cd55-47c2-a25c-2fbfbb7e55be" />
+
+
 
 ## Interfaz Fifa
-<img width="1915" height="968" alt="footbal intefaz" src="https://github.com/user-attachments/assets/c74d2ac8-c823-4ed8-92a4-4ab956c550db" />
+<img width="1908" height="965" alt="image" src="https://github.com/user-attachments/assets/2d9c615b-2030-444e-8c16-6a9ad9c58094" />
+<img width="1919" height="965" alt="image" src="https://github.com/user-attachments/assets/e60bf74e-5dc1-432f-a93c-7463c8e92a70" />
+<img width="1915" height="970" alt="image" src="https://github.com/user-attachments/assets/ebf8ca43-5811-4227-8092-5934a92f2e83" />
+<img width="1903" height="971" alt="image" src="https://github.com/user-attachments/assets/478e19c4-64d2-47fe-88c1-745f1838d3bc" />
+
+
+
+
 
 
 
@@ -88,18 +102,3 @@ Aplicación web desarrollada con Node.js y Express que permite el consumo de inf
 | 19 | /v4/players/{id} | Datos de jugador | GET | player_id |
 | 20 | /v4/competitions/{id}/standings | Tabla de posiciones | GET | competition_id |
 
-## Estructura del Proyecto
-consumo-apis-publicas-240755/
-├── views/
-│ ├── index.ejs
-│ ├── nasa.ejs
-│ ├── inegi.ejs
-│ └── football.ejs
-├── public/
-│ └── css/
-│ └── output.css
-├── node_modules/
-├── server.js
-├── package.json
-├── .env
-└── README.md
